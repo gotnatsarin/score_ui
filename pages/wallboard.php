@@ -20,9 +20,9 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+    <link rel="icon" type="image/png" href="../assets/img/3cxcustom.png">
     <title>
-        Score UI
+        3CX Customize Wallboard
     </title>
     <!--     Fonts and icons     -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -66,7 +66,7 @@
                             <a href="javascript:;" class="nav-link text-body font-weight-bold px-0">
                                 <i class="fa fa-user me-sm-1"></i>
                                 <span class="d-sm-inline d-none"></span>
-                                <a class="nav-link  " href="../pages/sign-up.html">Sing In</a>
+                                <a class="nav-link  " href="../pages/sign-in.php">Sing In</a>
                             </a>
                         </li>
                     </ul>
@@ -441,11 +441,7 @@
                 <div class="col-lg-6">
                     <div class="card z-index-2">
                         <div class="card-header pb-0">
-                            <h6>Score overview</h6>
-                            <p class="text-sm">
-                                <i class="fa fa-arrow-up text-success"></i>
-                                <span class="font-weight-bold">4% more</span> in 2021
-                            </p>
+                            <h6>Garph overview</h6>
                         </div>
                         <div class="card-body p-3">
                             <div class="chart">
@@ -637,9 +633,9 @@
                         <i class="fab fa-facebook-square me-1" aria-hidden="true"></i> Share
                     </a>
                 </div>
-            </div> -->
+            </div> 
         </div>
-    </div>
+    </div> -->
     <!--   Core JS Files   -->
     <script src="../assets/js/core/popper.min.js"></script>
     <script src="../assets/js/core/bootstrap.min.js"></script>
